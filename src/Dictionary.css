@@ -1,3 +1,25 @@
 .Dictionary {
     font-size: large;
 }
+
+.Dictionary section {
+    background: white;
+    padding: 30px;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+}
+
+.Dictionary input {
+    width: 100%;
+    padding: 10px 20px;
+    border: 1px solid #fdb5ea;
+    border-radius: 4px;;
+}
+
+.Dictionary h5 {
+    opacity: 0.5;
+    font-size: 18px;
+    font-style: italic;
+    text-align: left;
+}
